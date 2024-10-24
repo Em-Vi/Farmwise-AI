@@ -128,7 +128,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-This version adds the relevant acknowledgements, maintaining the formal tone. It gives proper credit to the sources you used, while still keeping the README clear and professional.
