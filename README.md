@@ -1,7 +1,3 @@
-Here’s an updated version of the README to include credit for the inspiration and template sources:
-
----
-
 # Plant Disease Detection System
 
 This project was developed as part of the Smart India Hackathon. It is a web-based application that predicts plant diseases from uploaded leaf images using a deep learning model. The system is designed to assist farmers and agriculturists in identifying diseases in various crops and providing information on how to manage or treat them.
