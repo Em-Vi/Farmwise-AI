@@ -51,7 +51,7 @@ git clone https://github.com/your-username/plant-disease-detection.git
 cd plant-disease-detection
 ```
 
-### Backend Setup
+### Application Setup
 
 1. Install Python dependencies:
 
@@ -59,28 +59,19 @@ cd plant-disease-detection
 pip install -r backend/requirements.txt
 ```
 
-2. Run the Flask backend:
+2. Navigate to the `farmwise` folder:
 
 ```bash
-cd backend
-python app.py
+cd farmwise
 ```
 
-### Frontend Setup
-
-1. Navigate to the `frontend` folder:
-
-```bash
-cd frontend
-```
-
-2. Install Node.js dependencies:
+3. Install Node.js dependencies:
 
 ```bash
 npm install
 ```
 
-3. Start the React development server:
+4. Start the React development server and flask backend server:
 
 ```bash
 npm start
