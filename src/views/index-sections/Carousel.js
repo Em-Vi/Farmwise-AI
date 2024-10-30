@@ -14,17 +14,17 @@ import {
 
 const items = [
   {
-    src: require("assets/img/green_credits.jpg"),
+    src: require("../../assets/img/green_credits.jpg"),
     altText: "Green Credits and Green Store",
     caption: "Green Credits and Green Store"
   },
   {
-    src: require("assets/img/home-garden.jpg"),
+    src: require("../../assets/img/home-garden.jpg"),
     altText: "For farmers and home-gardeners",
     caption: "For farmers and home-gardeners"
   },
   {
-    src: require("assets/img/ai_ml.jpg"),
+    src: require("../../assets/img/ai_ml.jpg"),
     altText: "AI and Machine Learning",
     caption: "AI and Machine Learning"
   }

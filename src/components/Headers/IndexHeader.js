@@ -28,7 +28,7 @@ function IndexHeader() {
         <div
           className="page-header-image"
           style={{
-            backgroundImage: "url(" + require("assets/img/realheader.jpg") + ")"
+            backgroundImage: "url(" + require("../../assets/img/realheader.jpg") + ")"
           }}
           ref={pageHeader}
         ></div>
@@ -37,7 +37,7 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/FarmWise_logo.png")}
+              src={require("../../assets/img/FarmWise_logo.png")}
             ></img>
             <h1 className="h1-seo">farmwise</h1>
             <h3>AN AI-DRIVEN SYSTEM TO IMROVE YOUR AGRO-PRODUCTION</h3>
