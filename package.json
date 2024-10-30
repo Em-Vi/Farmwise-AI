@@ -15,7 +15,7 @@
     "react-scripts": "^3.0.1",
     "reactstrap": "^8.10.0",
     "sass": "^1.62.1",
-    "typescript": "3.9.10"
+    "typescript": "3.2.1"
   },
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
