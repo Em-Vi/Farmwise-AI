@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5afc2a4b.chunk.css",
+    "main.js": "/static/js/main.17767abe.chunk.js",
+    "main.js.map": "/static/js/main.17767abe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.221f1739.js",
+    "runtime-main.js.map": "/static/js/runtime-main.221f1739.js.map",
+    "static/js/2.b2450b96.chunk.js": "/static/js/2.b2450b96.chunk.js",
+    "static/js/2.b2450b96.chunk.js.map": "/static/js/2.b2450b96.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e06528d886b019b10671f94f99587a32.js": "/precache-manifest.e06528d886b019b10671f94f99587a32.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5afc2a4b.chunk.css.map": "/static/css/main.5afc2a4b.chunk.css.map",
+    "static/js/2.b2450b96.chunk.js.LICENSE.txt": "/static/js/2.b2450b96.chunk.js.LICENSE.txt",
+    "static/media/FarmWise_logo.png": "/static/media/FarmWise_logo.e92b136e.png",
+    "static/media/ai_ml.jpg": "/static/media/ai_ml.f8704c65.jpg",
+    "static/media/green_credits.jpg": "/static/media/green_credits.d63d8462.jpg",
+    "static/media/home-garden.jpg": "/static/media/home-garden.70f4dbef.jpg",
+    "static/media/login.jpg": "/static/media/login.b2101951.jpg",
+    "static/media/now-logo.png": "/static/media/now-logo.e92b136e.png",
+    "static/media/now-ui-kit.scss": "/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/realheader.jpg": "/static/media/realheader.8894e5bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.221f1739.js",
+    "static/js/2.b2450b96.chunk.js",
+    "static/css/main.5afc2a4b.chunk.css",
+    "static/js/main.17767abe.chunk.js"
+  ]
+}
